@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=AE07B5&width=435&lines=Hi!+I'm+Fernanda+Coronado+%3A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=AE07B5&width=435&lines=Hi!+I'm+Fernanda+Coronado+%3A))
 
 #### 👋🏼 I'm an IT engineer with Junior level experience, interested in mobile application development, software development and web development.
 
